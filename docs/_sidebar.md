@@ -11,7 +11,7 @@
 
 * **常用软件**
   * [软件分类](software/category)
+  * [Alfred](software/alfred)
   * [Chrome](software/chrome)
-  
   * [Vscode](software/vscode)
 
